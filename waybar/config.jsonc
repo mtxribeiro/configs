@@ -15,7 +15,7 @@
 
  "custom/launcher":
   {
-    "format": "<span font='12'>󰣇 </span>",
+    "format": "Apps",
     "on-click": "tofi-drun --drun-launch=true",
     "on-click-right": "tofi-drun --drun-launch=true" 
   },
