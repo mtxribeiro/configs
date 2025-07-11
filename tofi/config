@@ -1,20 +1,13 @@
 anchor = top
 width = 50%
-height = 25
+margin-left = 25%
 horizontal = true
 font-size = 9
-prompt-text =" "
+prompt-text ="  "
 font = JetBrainsMono Nerd Font Bold
 outline-width = 0
 border-width = 0
 background-color = #00000000
-min-input-width = 120
 result-spacing = 10
 padding-top = 7
-padding-bottom = 0
-padding-left = 5
-padding-right = 5
 selection-color = #0effff
-wa
-hide-input = true
-hidden-character = ""
