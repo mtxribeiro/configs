@@ -24,8 +24,14 @@ window#waybar {
 }
 
 #clock {
+    margin-right: 10px;
 }
 
 #tray {
-    margin: 0px 3px 0px 0px;
+    margin: 0px 6px 0px 0px;
+}
+
+#custom-launcher {
+    margin-left: 10px;
+    color: #0effff;
 }
