@@ -11,3 +11,7 @@ background-color = #00000000
 result-spacing = 10
 padding-top = 7
 selection-color = #0effff
+<<<<<<< HEAD
+=======
+hidden-character = ""
+>>>>>>> dfba31d8cdec6fd72d526970ce0291db2f7b9523
