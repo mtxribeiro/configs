@@ -1,13 +1,32 @@
 anchor = top
-width = 50%
-margin-left = 25%
+width = 100%
 horizontal = true
+height = 35
+
+# Padding
+padding-top =  7
+padding-bottom = 0
+padding-left = 8
+padding-right = 0
+
 font-size = 9
-prompt-text ="  "
 font = JetBrainsMono Nerd Font Bold
-outline-width = 0
-border-width = 0
+min-input-width = 120
+result-spacing = 15
+
 background-color = #00000000
-result-spacing = 10
-padding-top = 7
-selection-color = #ababab
+
+prompt-text = "Search: "
+prompt-color = #FFFFFF
+
+input-color = #FFFFFF
+input-background-padding = 3
+
+default-result-color = #FFFFFF
+
+selection-color = #FFFFFF
+selection-match-color = #FFFFFF
+
+border-width = 0
+
+outline-width = 0

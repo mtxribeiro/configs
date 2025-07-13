@@ -27,10 +27,10 @@ window#waybar {
     margin-right: 10px;
 }
 
-#tray {
-    margin: 0px 6px 0px 0px;
+#window {
+    margin: 1px 0 0 0;
 }
 
-#custom-launcher {
-    margin-left: 10px;
+#tray {
+    margin: 0px 6px 0px 0px;
 }

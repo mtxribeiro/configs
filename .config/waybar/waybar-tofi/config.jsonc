@@ -1,0 +1,9 @@
+{
+  "position": "top",
+  "height": 22,
+  "modules-center": ["custom/tofi"],
+  "custom/tofi": {
+    "exec": "echo ''",
+    "interval": 9999
+  }
+}
