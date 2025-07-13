@@ -1,7 +1,7 @@
 anchor = top
-width = 100%
+width = 60%
 horizontal = true
-height = 35
+height = 30
 
 # Padding
 padding-top =  7

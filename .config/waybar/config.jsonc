@@ -1,8 +1,7 @@
 {
   "position": "top",
 
-  "modules-left": ["hyprland/workspaces", "mpris"],
-  "modules-center": ["hyprland/window"],
+  "modules-left": ["hyprland/workspaces",],
   "modules-right": ["tray", "pulseaudio", "network", "clock"],
 
   "hyprland/workspaces": {
@@ -30,17 +29,6 @@
     "format": "{:%d %b - %H:%M}",
     "interval": 1,
   },
-
-"mpris": {
-  "player": "spotify",
-  "format": "{artist} - {title}   ",
-  "format-paused": "{artist} - {title}   ",
-  "format-playing": "{artist} - {title}   ",
-  "on-click": "playerctl --player=spotify play-pause",
-  "on-click-right": "playerctl --player=spotify play-pause",
-  "on-scroll-up": "playerctl --player=spotify next",
-  "on-scroll-down": "playerctl --player=spotify previous"
-},
 
   "tray": {
     "icon-size": 15,
