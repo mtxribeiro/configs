@@ -4,7 +4,7 @@ sudo pacman -S --needed hyprland hyprpaper hyprlock waybar tofi kitty nautilus
 
 command -v yay &>/dev/null || (cd /tmp && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si --noconfirm && cd ~ && rm -rf /tmp/yay)
 
-yay -S hyprshot tofi brave-bin
+yay -S --needed --noconfirm hyprshot tofi brave-bin
 
 cp -rf .config ~/
 cp .bashrc ~/ 2>/dev/null || true
